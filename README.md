@@ -4,7 +4,7 @@
 First Proyect, with React-Vite
 
 ### Technologies used
-[![react-native][react-native]][react-native-url]
+[![react][react]][react-url]
 [![bootstrap][bootstrap]][bootstrap-url]
 [![css3][css3]][css3-url]
 [![javaScript][javaScript]][javaScript-url]
@@ -33,8 +33,8 @@ Choque Leonel
 <!-- MARKDOWN LINKS & IMAGES -->
 [nodejs-url]: https://nodejs.org/en
 
-[react-native]:https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[react-native-url]: https://react.dev/
+[react]:https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[react-url]: https://react.dev/
 
 [bootstrap]:https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [bootstrap-url]:https://getbootstrap.com/
