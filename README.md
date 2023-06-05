@@ -33,7 +33,7 @@ Choque Leonel
 <!-- MARKDOWN LINKS & IMAGES -->
 [nodejs-url]: https://nodejs.org/en
 
-[react]:https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[react]:https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [react-url]: https://react.dev/
 
 [bootstrap]:https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
