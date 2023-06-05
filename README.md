@@ -5,6 +5,7 @@ First Proyect, with React-Vite
 
 ### Technologies used
 [![react][react]][react-url]
+[![vite][vite]][vite-url]
 [![bootstrap][bootstrap]][bootstrap-url]
 [![css3][css3]][css3-url]
 [![javaScript][javaScript]][javaScript-url]
@@ -44,3 +45,6 @@ Choque Leonel
 
 [javaScript]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [javaScript-url]:https://developer.mozilla.org/es/docs/Web/JavaScript
+
+[vite]:https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
+[vite-url]:https://vitejs.dev/
