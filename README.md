@@ -1,4 +1,4 @@
-# Module 3 - TP1-Punto1 / React-Vite
+# Module 3 - TP1-Exercise1 / React-Vite
 
 ## Description
 First Proyect, with React-Vite. Practice whit component, events, component's lifecycle, etc.
