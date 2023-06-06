@@ -1,7 +1,7 @@
 # Module 3 - TP1-Punto1 / React-Vite
 
 ## Description
-First Proyect, with React-Vite. Practice whit component, events, lifecycle components, etc.
+First Proyect, with React-Vite. Practice whit component, events, component's lifecycle, etc.
 ![image](https://github.com/Leonel2099/Punto1-React-Vite/assets/91150997/b89bebea-bcf1-459c-a13b-7b0fa8f56044)
 ### Technologies used
 [![react][react]][react-url]
